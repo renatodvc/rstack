@@ -1,0 +1,10 @@
+{
+  "name": "rstack",
+  "description": "Skills and prompt conventions I use day to day.",
+  "version": "0.1.0",
+  "author": {
+    "name": "renatodvc",
+    "email": "40128530+renatodvc@users.noreply.github.com"
+  },
+  "license": "MIT"
+}

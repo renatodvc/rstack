@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "UserPromptSubmit": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "[ -n \"$CLAUDE_DONT_APPEND\" ] || cat \"${CLAUDE_PLUGIN_ROOT}/appendPrompt.md\""
+          }
+        ]
+      }
+    ]
+  }
+}

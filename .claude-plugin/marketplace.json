@@ -1,0 +1,15 @@
+{
+  "name": "rstack",
+  "owner": {
+    "name": "renatodvc",
+    "email": "40128530+renatodvc@users.noreply.github.com"
+  },
+  "description": "Personal Claude Code stack from renatodvc.",
+  "plugins": [
+    {
+      "name": "rstack",
+      "source": "./",
+      "description": "Skills and prompt conventions I use day to day."
+    }
+  ]
+}
