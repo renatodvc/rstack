@@ -21,6 +21,7 @@ Skills marked manual only set `disable-model-invocation: true`. The model never 
 | `grilling` | Same goal as `grill-me`, but asks the whole frontier of open questions in numbered rounds. | ❌ |
 | `im-not-reading-all-that` | Asks for a shorter, objective summary of the last message. | ✅ |
 | `independent-review` | Reviews finished work with fresh subagents that never saw the conversation, then verifies the findings with another fresh subagent. Reports only, fixes nothing. | ❌ |
+| `resurrect` | Resumes an inactive session with a short summary of what it was about, what is done, and what is left. | ✅ |
 | `sleep-deprived` | The model engages the user with shorter and simpler answers with a high signal-to-noise ratio. | ❌ |
 | `unslop` | Cuts AI tells from writing and puts voice back in. | ❌ |
 
